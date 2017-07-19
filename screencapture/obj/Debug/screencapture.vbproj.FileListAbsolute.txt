@@ -1,0 +1,10 @@
+c:\users\manan\documents\visual studio 2013\Projects\screencapture\screencapture\bin\Debug\screencapture.exe.config
+c:\users\manan\documents\visual studio 2013\Projects\screencapture\screencapture\obj\Debug\screencapture.Form1.resources
+c:\users\manan\documents\visual studio 2013\Projects\screencapture\screencapture\obj\Debug\screencapture.Resources.resources
+c:\users\manan\documents\visual studio 2013\Projects\screencapture\screencapture\obj\Debug\screencapture.vbproj.GenerateResource.Cache
+c:\users\manan\documents\visual studio 2013\Projects\screencapture\screencapture\bin\Debug\screencapture.exe
+c:\users\manan\documents\visual studio 2013\Projects\screencapture\screencapture\bin\Debug\screencapture.pdb
+c:\users\manan\documents\visual studio 2013\Projects\screencapture\screencapture\bin\Debug\screencapture.xml
+c:\users\manan\documents\visual studio 2013\Projects\screencapture\screencapture\obj\Debug\screencapture.exe
+c:\users\manan\documents\visual studio 2013\Projects\screencapture\screencapture\obj\Debug\screencapture.xml
+c:\users\manan\documents\visual studio 2013\Projects\screencapture\screencapture\obj\Debug\screencapture.pdb
